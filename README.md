@@ -8,10 +8,10 @@ Notes can be played back via the built in PyGame synthesizer
 Any midi file can be opened and played with this program
 
 ## Play
-Install Python 3.x
+Install Python 3.x<br>
 Clone this repository to your local working directory<br />
   `$ git clone https://github.com/puregold71/Python-Midi-Player.git`<br />
-  `$ open midi.py`
+  `$ open Midi.py`
 
 
 
